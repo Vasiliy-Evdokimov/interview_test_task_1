@@ -2,6 +2,8 @@
 I completed this task for one of the foreign IT companies on a specialized testing site. Before I received the task, I had to start a timer that ticked until I sent the finished application to the testing system. Execution time was an important condition for success. However, the current employer hired me before I received a response from this company.
 I put it here to present my abilities in algorithmization and object oriented programming.
 
+![Screenshot](screenshot.jpg)
+
 See task text below:
 
 Your task is to implement a program that takes any string of 0 and 1 of suitable length, the smallest bit at the end of the command line, internally builds the corresponding pyramid, prints the pyramid as a binary string in one line (so that the first line matches the input data), applies the rules, prints the resulting pyramid for each reduction and for each transformation as a binary string in one line and repeats cyclically until the pyramid is reduced to one bit and you print either 0 or 1 in one line.
